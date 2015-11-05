@@ -1,0 +1,9 @@
+/History
+*.drc
+Design*.html
+*.prjpcbstructure
+*.schdocpreview
+*.pcbdocpreview
+/Project*
+
+
