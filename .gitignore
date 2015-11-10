@@ -5,5 +5,6 @@ Design*.html
 *.schdocpreview
 *.pcbdocpreview
 /Project*
+*.Dat
 
 
